@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pepsi</string>
+    <string name="Bienvenidos">Bienvenidos</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="Nombre_Usuario">Nombre Usuario</string>
+
+    <!-- pantalla principal -->
+    <string name="pepsi_text">Pepsi está posicionado para crecer y alcanzar el primer puesto en el mercado global de Alimentos y Bebidas.</string>
+
+
+    <!-- pantalla programador -->
+    <string name="Datos_Programador">Datos Programador</string>
+
+    <!-- botones -->
+    <string name="Ingresar">Ingresar</string>
+    <string name="Volver">Volver</string>
+    <string name="Programador">Programador</string>
+    <string name="Llamar">Llamar</string>
+    <string name="Correo">Correo</string>
+
+
+
+
+
+
+</resources>

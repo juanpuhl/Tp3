@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tp3</string>
+    <string name="Bienvenidos">Welcome</string>
+    <string name="Nombre_Usuario">User Name</string>
+    <string name="contraseña">password</string>
+    <string name="pepsi_text">Pepsi is positioned to grow and reach the top spot in the global Food and Beverages market.</string>
+    <string name="Datos_Programador">Programmer Data</string>
+    <string name="Volver">Back</string>
+    <string name="Ingresar">Login In</string>
+    <string name="Programador">Developer</string>
+    <string name="Llamar">Call</string>
+    <string name="Correo">Email</string>
+</resources>
